@@ -1,0 +1,15 @@
+{
+  "name": "cli-based-simple-atm",
+  "version": "1.0.0",
+  "description": "\"this is a simple cli based ATM\"",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anees Hanif",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
