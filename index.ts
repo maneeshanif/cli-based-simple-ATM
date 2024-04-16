@@ -2,9 +2,10 @@
 import inquirer from "inquirer";
 import chalk from "chalk";
 
-console.log(chalk.cyanBright.bold.bgWhiteBright.underline('\t\t\t\t\t Auto Teller Machine'))
-console.log(chalk.yellowBright('\t\t\t\t\t\t\t\t\t\t\t\t\tDeveloped By:'))
-console.log(chalk.greenBright.underline("\t\t\t\t\t\t\t\t\t\t\t\t\t\tAnees Hanif"))
+console.log(chalk.cyanBright.bold.bgWhiteBright.underline('\t\t\t\t\t\t Auto Teller Machine'));
+console.log(chalk.yellowBright('\nDeveloped By:'));
+console.log(chalk.greenBright.underline("\tAnees Hanif"));
+console.log("\n");
 
 
 let balance = 10000;

@@ -1,6 +1,6 @@
 {
   "name": "anees-hanif-cli-based-simple-atm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"this is a simple cli based ATM\"",
   "main": "index.js",
   "type": "module",
