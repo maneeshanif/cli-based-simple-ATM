@@ -1,15 +1,21 @@
 {
-  "name": "cli-based-simple-atm",
+  "name": "anees-hanif-cli-based-simple-atm",
   "version": "1.0.0",
   "description": "\"this is a simple cli based ATM\"",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Anees Hanif",
   "license": "ISC",
   "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
     "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3"
   }
 }
